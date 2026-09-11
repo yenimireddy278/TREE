@@ -1,6 +1,5 @@
 package tree;
 import java.util.HashMap;
-import tree.BinaryTreeHeight.Node;
 
 public class BuildTreePreorderInorder {
 	static class Node{
