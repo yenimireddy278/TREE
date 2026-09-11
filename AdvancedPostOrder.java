@@ -58,7 +58,7 @@ public class AdvancedPostOrder {
         root.right.left = new Node(60);
         root.right.right = new Node(80);
 
-        System.out.println("AdvancedPostorder Traversal:");
+        System.out.println("Iterative Postorder Traversal:");
 
         postorder(root);
     }
